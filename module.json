@@ -1,1 +1,6 @@
-{"name":"cms-joomla-migration","title":"Joomla Migration","version":"0.1.0","package":"liberusoftware/module-cms-joomla-migration"}
+{
+  "name": "cms-joomla-migration",
+  "title": "Joomla Migration",
+  "version": "0.1.1",
+  "package": "liberusoftware/module-cms-joomla-migration"
+}
